@@ -1,2 +1,3 @@
-# palworld-type-icons
-Svg icons for each pal type
+# palworld-icons
+* Webp icons for each pal work skill
+* Webp icons for each pal type
